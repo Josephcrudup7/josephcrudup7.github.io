@@ -1,0 +1,31 @@
+h1{
+	color: red;
+}
+p{
+	text-decoration: underline;
+}
+li{
+	color: pink;
+}
+body{
+	background-color: rgba(33, 100, 243, 0.86);
+
+}
+#huge{
+	font-size: 300%
+}
+#big{
+	font-size: 200%;
+}
+.border { 
+	border: 3px solid black;
+	display: inline;
+}
+#lilbig{
+	font-size: 150%; 
+}
+h1 {
+	margin-left: 35px;
+	padding: 5px
+	border: 3px dashed black; 
+}
